@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://santech:san1234@cluster0.1lqv0.mongodb.net/social-media?retryWrites=true&w=majority",
+    "jwtSecret":"mysecret",
+    "githubClientId":"a404abc1eda3a94ed14b",
+    "githubSecret":"0f1820191a723a7cb377bb0fdf186c6648b3f1f6"
+}
